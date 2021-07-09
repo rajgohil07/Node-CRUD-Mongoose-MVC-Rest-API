@@ -18,7 +18,7 @@ Database_backup=><b>user_datas.json</b><br>
 
 # How to Start
 
-<b>Open the directory and install all the required modules by typing the following command</b><br>
-npm i<br>
-<b>After module installation just simply typewrite the following code to start the node server</b><br>
-node server<br>
+Open the directory and install all the required modules by typing the following command<br>
+<b>npm i</b><br><br>
+After module installation just simply typewrite the following code to start the node server<br>
+<b>node server</b><br><br>
